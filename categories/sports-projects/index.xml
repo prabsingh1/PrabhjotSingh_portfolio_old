@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sports Projects on Prabhjot Singh</title>
-    <link>/categories/sports-projects/</link>
+    <link>https://prabsingh1.github.io/PrabhjotSingh_portfolio/categories/sports-projects/</link>
     <description>Recent content in Sports Projects on Prabhjot Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/categories/sports-projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://prabsingh1.github.io/PrabhjotSingh_portfolio/categories/sports-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NBA Analysis</title>
-      <link>/post/nba_analysis/</link>
+      <link>https://prabsingh1.github.io/PrabhjotSingh_portfolio/post/nba_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/nba_analysis/</guid>
+      <guid>https://prabsingh1.github.io/PrabhjotSingh_portfolio/post/nba_analysis/</guid>
       <description>&lt;p&gt;The National Basketball Association (NBA) has consistently been one of the most watched sports around the world. It featured cultural icons of past generations such as Michael Jordan and has inspired generations of fans and young athletes to become avid followers of the sport. The influence and cultural relevance of the NBA continues to this day, but many argue that the magic that existed during the past generations of basketball has been lost. Therefore, the overall goal of this project is to investigate the characteristics that make up both “old school” and “current” NBA and elaborate on their differences. By doing so we hope to better understand the statistics and trends that revolve around this debate.&lt;/p&gt;
 &lt;p&gt;This was for my final project in CS 5010.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Fantasy Football Webscrape</title>
-      <link>/post/nflwebscape/</link>
+      <link>https://prabsingh1.github.io/PrabhjotSingh_portfolio/post/nflwebscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/nflwebscape/</guid>
+      <guid>https://prabsingh1.github.io/PrabhjotSingh_portfolio/post/nflwebscape/</guid>
       <description>&lt;p&gt;In this project I demstrate how I webscraped NFL Fantasy data over the last 10 years from NFL.com.&lt;/p&gt;</description>
     </item>
     

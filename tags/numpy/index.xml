@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>numpy on Prabhjot Singh</title>
-    <link>/tags/numpy/</link>
+    <link>https://prabsingh1.github.io/PrabhjotSingh_portfolio/tags/numpy/</link>
     <description>Recent content in numpy on Prabhjot Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://prabsingh1.github.io/PrabhjotSingh_portfolio/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assessing Tornado Uncertainty Using Bayesian Methods</title>
-      <link>/post/tornado/</link>
+      <link>https://prabsingh1.github.io/PrabhjotSingh_portfolio/post/tornado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/tornado/</guid>
+      <guid>https://prabsingh1.github.io/PrabhjotSingh_portfolio/post/tornado/</guid>
       <description>&lt;p&gt;This project was made for my Baysian Machine Learning final project with a few other students in my cohort. The main goal was to assess which variables are the most important in the categorization of tornado magnitude on the Enhance Fujita (EF) scale using bayesian machine learning. We used a dataset from the National Oceanic and Atmospheric Association (NOAA) to create three different models: Naive Bayes, Mulitnomial Logistic Regression and Hierarchical Logistic Regression. We found the most important variables to be the path length of the torndao, more specifically length and width of the tornado, to be the most important parameters in the classifcation of tornado magnitude. The multinomial logistic regression model performed the best with an accuracy of ~60%.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Fantasy Football Webscrape</title>
-      <link>/post/nflwebscape/</link>
+      <link>https://prabsingh1.github.io/PrabhjotSingh_portfolio/post/nflwebscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/nflwebscape/</guid>
+      <guid>https://prabsingh1.github.io/PrabhjotSingh_portfolio/post/nflwebscape/</guid>
       <description>&lt;p&gt;In this project I demstrate how I webscraped NFL Fantasy data over the last 10 years from NFL.com.&lt;/p&gt;</description>
     </item>
     
