@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>NBA Analysis - Prabhjot Singh</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="NBA Analysis" />
+<meta property="og:description" content="The National Basketball Association (NBA) has consistently been one of the most watched sports around the world. It featured cultural icons of past generations such as Michael Jordan and has inspired generations of fans and young athletes to become avid followers of the sport. The influence and cultural relevance of the NBA continues to this day, but many argue that the magic that existed during the past generations of basketball has been lost. Therefore, the overall goal of this project is to investigate the characteristics that make up both “old school” and “current” NBA and elaborate on their differences. By doing so we hope to better understand the statistics and trends that revolve around this debate.
+This was for my final project in CS 5010." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/portfolio/post/nba_analysis/" />
+
+
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="NBA Analysis"/>
+<meta name="twitter:description" content="The National Basketball Association (NBA) has consistently been one of the most watched sports around the world. It featured cultural icons of past generations such as Michael Jordan and has inspired generations of fans and young athletes to become avid followers of the sport. The influence and cultural relevance of the NBA continues to this day, but many argue that the magic that existed during the past generations of basketball has been lost. Therefore, the overall goal of this project is to investigate the characteristics that make up both “old school” and “current” NBA and elaborate on their differences. By doing so we hope to better understand the statistics and trends that revolve around this debate.
+This was for my final project in CS 5010."/>
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/portfolio/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/portfolio/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/portfolio/" title="Prabhjot Singh" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">Prabhjot Singh</div>
+					<div class="logo__tagline">MS in Data Science Candidate| Project Portfolio</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/portfolio/post/aboutme/">
+				
+				<span class="menu__text">About Me</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/portfolio/post/tornado/">
+				
+				<span class="menu__text">Tornado Uncertainty</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/portfolio/post/pca_tutorial/">
+				
+				<span class="menu__text">Unsupervised Tutorial</span>
+				
+			</a>
+		</li>
+		<li class="menu__item menu__item--active">
+			<a class="menu__link" href="/portfolio/post/nba_analysis/">
+				
+				<span class="menu__text">NBA Analysis</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/portfolio/post/nflwebscape/">
+				
+				<span class="menu__text">Fantasy Football Webscrape</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/portfolio/post/other/">
+				
+				<span class="menu__text">Other Projects</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">NBA Analysis</h1>
+			<div class="post__meta meta"><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/portfolio/categories/sports-projects/" rel="category">Sports Projects</a>
+	</span>
+</div></div>
+		</header>
+		<figure class="post__thumbnail">
+			<img src="/portfolio/nba.jpg" alt="NBA Analysis">
+		</figure><div class="content post__content clearfix">
+			<p>The National Basketball Association (NBA) has consistently been one of the most watched sports around the world. It featured cultural icons of past generations such as Michael Jordan and has inspired generations of fans and young athletes to become avid followers of the sport. The influence and cultural relevance of the NBA continues to this day, but many argue that the magic that existed during the past generations of basketball has been lost. Therefore, the overall goal of this project is to investigate the characteristics that make up both “old school” and “current” NBA and elaborate on their differences. By doing so we hope to better understand the statistics and trends that revolve around this debate.</p>
+<p>This was for my final project in CS 5010.</p>
+<h2 id="comparing-nba-players-michael-jordon-and-lebron-james">Comparing NBA Players Michael Jordon and Lebron James</h2>
+<h4 id="vasudha-manikandan--latifa-hasan--john-zhang--summer-chambers--prabhjot-singh">Vasudha Manikandan | Latifa Hasan | John Zhang | Summer Chambers | Prabhjot Singh</h4>
+<h3 id="introduction">Introduction</h3>
+<ul>
+<li>Who’s the best player in NBA history in terms of statistics (not including wins, championships, and MVPS?</li>
+<li>How has basketball changed in terms of various statistics that define the sport?</li>
+</ul>
+<p>Although there are many players that we can consider when trying to answer the first question, for the purposes of this project we have decided to limit it to a comparison between all time greats belonging to different generations of basketball: Michael Jordan and LeBron James. Furthermore, in order to answer this question we will be looking at how both of these players differed in terms of comparison to each other and the entire league for a given year.</p>
+<p>For the second question, we determined that there were multiple angles to view a change in the nba, however limited it to the following subsets of questions:
+Is basketball as physical?
+Are players generally better?
+In order to analyze the first points we examined statistical trends in variables such as 3 point and 2 point field goals as well as overall personal fouls. Hypothetically, if there was an decrease in physicality, an indicator for this could be an increase of 3 point field goals and personal fouls as well as a decrease in 2 point field goals. For the second question, we visualized points per a game and how that has changed over the years. Therefore we define an improvement in players by whether or not there is an increase in our trend of points per a game.</p>
+<p>As summarized above, the overall goal of this project is to investigate the characteristics that make up both “old school” and “current” NBA and elaborate on their differences. By doing so we hope to better understand the statistics and trends that revolve around this debate.</p>
+<h3 id="the-data">The Data</h3>
+<p>Our data comes from basketball-reference.com, a website that collects data about NBA players and their statistics. The fact that this website collects data on each individual player, allows us to be able to create functions to extract a specific one we would like to know more about. To obtain the data from the website we used web-scraping techniques such as findAll to obtain the column header and getText to get the text into a list. Then we looped through the list of text and attached it to the correct column header. We refined the data a little bit and removed any missing data points.</p>
+<p>The data set itself consists of all NBA players from the years 1980 to 2020 and provides a variety of information. The two qualitative variables were the position of the player and the team the player was on during that year. The rest of the variables are quantitative including age, minutes played, points per game, steals per game, etc. All these pieces of data are significant in giving useful information about a selected player. We then can turn this information into knowledge and gain some insight on how the player(s) have done over the years in some of the quantitative categories and how they possibly compare to the rest of the league. All this knowledge and information can help teams choose better players, focus on improving certain statistics of a player, and when march madness rolls around, determine what teams have a higher probability of winning.</p>
+<h3 id="experimental-design">Experimental Design</h3>
+<p>As stated above, this data was web-scraped from the website basketball-reference.com. The web-scraping used the beautifulsoup module to get the information off the website. To organize the information into a more malleable form, the Pandas module was used to put the data into a dataframe. Finally, any missing data was dropped to clean up the dataframe.</p>
+<p>After organizing the data, general summary statistics were conducted on the data to figure out some information. Over the years, we found the average number of points per player per game to be 8.06.  The average player played for 19.8 minutes.  The average age of a player was 26.75. These general statistics help to learn about the league and how it is doing overall.</p>
+<p>Now, to get more into the specifics of each individual player, a function called PlayerLookup was created. The purpose of this function is for novice users to learn more about a specific player in a specific year. The user can input a player’s name and year and the output of the function will be a row of their information such as their age, team, position, points, etc.</p>
+<p>Now if the user would like to know how this player is in comparison to the rest of the league based on player age and points per game, the user can use our second function called PlayerComp. PlayerComp takes the input from PlayerLookup and places them in an empty dataframe. The second row in the dataframe is the average player in the league for that year. Using this constructed data frame, the output of this function is a bar graph to visualize the difference between the chosen player and the average player in the league.</p>
+<p>The third function, yearAvg, takes in three parameters: a year, a statistic category and the top number of players you want to take the average for. This will output a single number that is the average for that statistic for that year’s top number of players. This is a step towards a more in depth analysis of the data.</p>
+<p>The fourth function created expands more on yearAvg. It is mostly directed towards those who want to delve deeper into the statistics of the NBA. YearlyComparisonTrend takes in four parameters: a start year, an end year, the statistic the user would like to look up and a top number of players. In the function, there is a loop that will go through the range of years set and then for each year the statistic established in the parameter is attached to the according year and placed into a dataframe. After the loop has completed, a line graph is printed to showcase the trend of the statistic over the years.</p>
+<p>Each of these functions builds on the other to provide different levels of users knowledge about the NBA league and individual players. We also wanted to present this knowledge in different ways, whether that be through creating a dataframe, a singular output or visualizing on graphs.</p>
+<h3 id="beyond-original-specifications">Beyond Original Specifications</h3>
+<p>We wanted to make our project generalizable in such a way that they would be used to examine a variety of different things very easily. Therefore we implemented functions that either asked for user input or functions that were easily adaptable.</p>
+<p><em>Web-Scraped Data</em><br>
+As stated above, this data was web-scraped from the website basketball-reference.com. But within our web-scrape is also the ability to easily change the range of years of the data. This functionality allows for a csv of your preference to be made within the matter of a couple minutes and ready to further investigate using the other functions that were created.</p>
+<p><em>PlayerLookup</em> <br>
+Do you need the correct statistical evidence to support why your favorite player is the best in the league? Well this is exactly what this tool is for. Using the PlayerLookup function enables anyone to search pertinent information within a matter of seconds.</p>
+<p><em>YearlyComparisonTrend</em> <br>
+This function allows you to visualize any given statistic and how it has changed over any range of years. This can be done for virtually any numerical variable in our dataset and at the end will give us a line graph. Examples of this can be found in our result section where we evaluate different trends over the years 1980-2020.</p>
+<h3 id="results">Results</h3>
+<p>Who’s the best player in NBA history in terms of statistics (not including wins, championships, and MVPS? 
+Jordan (1984 - 2003) vs Lebron (2003-2020)</p>
+<p>Using the function “return_player”, we were able to retrieve the stats for each player over their career as a Pandas dataframe.  Then, we used the np.mean() aggregate function to return each player’s average stats over their career.  By comparing the two dataframes, we were able to evaluate which player had the mean advantage over the other for each statistic.  Ignoring unhelpful statistics like age or year and negative statistics like personal fouls or turnovers, we found that Michael Jordan had the advantage in 8 meaningful stats, while LeBron James had the advantage for 9 meaningful stats.  Put simply, these players are relatively evenly matched.  We could investigate this question further by looking into which stats each player had advantages for:</p>
+<p>Advantage Jordan: FG, 2P, FT, FT%, ORB, STL, BLK, PTS
+Advantage James: MP, FG%, 3P, 3P%, 2P%, eFG%, DRB, TRB, AST</p>
+<p>Since Michael Jordan’s and LeBron James’ NBA careers didn’t quite overlap, it is difficult to interpret each of these statistics in the context of the league each player actually played in (the NBA has changed over time&ndash;as we’ll discuss a bit later).  We can begin to tackle this issue by looking at a year in the middle of Michael Jordan’s career (1992) and in LeBron James’ career (2011) and compare their average total points to the total points per game of the NBA’s average-aged player in that year:</p>
+<p>Michael Jordan (1992)			LeBron James (2011)</p>
+<p>These plots visually depict how both Michael Jordan and LeBron James excelled in comparison to the average-aged NBA player.</p>
+<p>How has basketball changed in terms of various statistics that define the sport?
+Are 3-pointers or 2-pointers more/less common now?</p>
+<p>We can look at the number of 3-point field goals over time as well as the number of 2-point field goals over time.</p>
+<p>The trend we see from the YearlyComparisonTrend function is that 3 point field goals have increased over the years 1980-2020, while 2 point field goals have decreased.</p>
+<p>Is it as physical?</p>
+<p>We can also see that personal fouls have decreased over the years.</p>
+<p>These findings suggest that basketball has become less physical since 1980.</p>
+<p>Are players generally better?</p>
+<p>We see that overall, players have improved in field goal percentage as well as in total points scored.</p>
+<p>These findings suggest that players are better now (shooting with more accuracy and scoring more) than they were in 1980.</p>
+<p>While these graphs show pretty dramatic differences, one should pay particular attention to the y-axis values to understand the actual magnitude of changes we’re observing.</p>
+<h3 id="testing">Testing</h3>
+<p>In order to make sure that components of our project were functioning properly we performed unit tests on our various functions.</p>
+<p>PlayerLookup(playername, year)
+The PlayerLookup function allows user input to learn more about specific players. However, since it takes user input, it can be challenging to test the function. Hence, we created an alternate PlayerLookup function that requires two parameters, player name and year, to return the relevant statistics of the player from the year specified in the parameter. Once these are passed, the function should return the player statistics from the given player name and the year. The unit tests developed for this function work to ensure that the correct player statistics are returned.</p>
+<p>The unit tests for the PlayerLookup() function tested to check the different uses for the method PlayerLookup.
+We set up the first test to check whether the function returns the correct statistics for the specified player and year. It should not return statistics for any other player/year. We used a self.assertEqual statement to test whether the values entered using the PlayerLookup function would return the correct statistics for the specified player and year.
+Since age changes on a yearly basis, the function should also be able to reflect the change. The second test checks whether the age changes with a change in the year attribute. 
+The third test checks whether the correct player position is returned when the player name and the year attributes are specified.</p>
+<p>The unit tests for each of the test cases above run and return the following output:</p>
+<p>yearAvg(year, stat_cat, topnum)
+The year average function requires 3 parameters which include year of interest, statistical category of interest, and how many of the top players you want included in the analysis. After passing in these, the function should return the average of any given stat from any given year of any given number of top players. Therefore the unit tests developed in this portion focused on making sure the correct mean was returned.</p>
+<p>The main tests revolve around 3 different potential uses for our method yearAvg.
+When we want to see the stats of only the top player of the league that year, we should be able to pass in 1 for the topum attribute. It should not do anything to the value and only one sample should be obtained. Therefore, a self.assertEqual statement was used to compare the value obtained through the yearAvg function and the value we found by looking up the top scorer of the 2005 season’s stats. 
+Our function also should be able to return a mean value if more than 1 players are passed through our topnum attribute. Therefore we now used the top 2 players in the league to calculate our average for points for the 2005 season.
+The last test is mainly to test for the nan object type that should be returned if 0 is passed through our topnum. Nan stands for “not any number” and may be tested for by using a math method called math.isnan() placing in our value that we would like to check inside the parentheses.</p>
+<p>The results after running the tests:</p>
+<p>The idea is that we do not need to test all the numerical statistical columns because if it works for one of them it should work for them all. To add to this, we also did not need to check for the correct data frame as if that was incorrect, then the mean value returned would also most likely be incorrect. Making logical thresholds like this makes unit testing a lot less cumbersome and does not take away from the confidence of the proper functioning of our functions.</p>
+<h3 id="conclusions">Conclusions</h3>
+<p>We found that while the NBA has changed since 1980, Michael Jordan and LeBron James are relatively evenly matched in terms of number of advantages in overall statistics in the context of their time and in comparison with the average player of their time.  We also found that today’s basketball is more 3-point-oriented and less 2-point oriented than in the past.  Players are less physical, accruing fewer average personal fouls now than in the past.  These findings help us understand some of the differences between old-school and modern basketball.</p>
+<p>One of the things that we wanted to make sure existed in this project was a way to make any of the tools utilized generalizable to any situation a user might want to test. By doing so anyone seeking to  gain quick insight into a player’s history or yearly trends could do so with relative ease. One example use case of this could be a NBA team preparing to face off with an all star on another team. They could ideally use the playerlook functionality to gain all the knowledge that they need - and that too with the option of visuals to accompany the results. To add to this, with the emerging popularity of fantasy basketball, this tool could also be used for the general purposes of creating the best team.</p>
+<p>Having said that, the functions and tools exemplified in this program can be dramatically improved. One way would be to web scrape or add more information related to specific game logs and winning records for each of the players. That way a more thorough assessment could be made regarding the statistics that make a winning team. In addition to this, all the data obtained for this project revolved around the regular season. However, players may perform differently in the playoffs, which could be drastically different from the types of trends we see in the regular season. Alongside these improvements, more functions could be added that maps multiple player information and yearly trends. This might be a more encapsulating picture of the statistics that surround a year or a player.</p>
+<h3 id="references">References</h3>
+<p><a href="https://www.basketball-reference.com/leagues/NBA_2020_per_game.html">https://www.basketball-reference.com/leagues/NBA_2020_per_game.html</a> 
+<a href="https://pythonprogramming.net/introduction-scraping-parsing-beautiful-soup-tutorial/">https://pythonprogramming.net/introduction-scraping-parsing-beautiful-soup-tutorial/</a>
+<a href="https://pythontic.com/pandas/dataframe-plotting/bar%20chart">https://pythontic.com/pandas/dataframe-plotting/bar%20chart</a></p>
+<p><strong>Appendix - Stats Legend</strong></p>
+<p>Rk &ndash; Rank</p>
+<p>Pos &ndash; Position</p>
+<p>Age &ndash; Player&rsquo;s age on February 1 of the season</p>
+<p>Tm &ndash; Team</p>
+<p>G &ndash; Games</p>
+<p>GS &ndash; Games Started</p>
+<p>MP &ndash; Minutes Played Per Game</p>
+<p>FG &ndash; Field Goals Per Game</p>
+<p>FGA &ndash; Field Goal Attempts Per Game</p>
+<p>FG% &ndash; Field Goal Percentage</p>
+<p>3P &ndash; 3-Point Field Goals Per Game</p>
+<p>3PA &ndash; 3-Point Field Goal Attempts Per Game</p>
+<p>3P% &ndash; 3-Point Field Goal Percentage</p>
+<p>2P &ndash; 2-Point Field Goals Per Game</p>
+<p>2PA &ndash; 2-Point Field Goal Attempts Per Game</p>
+<p>2P% &ndash; 2-Point Field Goal Percentage</p>
+<p>eFG% &ndash; Effective Field Goal Percentage</p>
+<p>^This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.</p>
+<p>FT &ndash; Free Throws Per Game</p>
+<p>FTA &ndash; Free Throw Attempts Per Game</p>
+<p>FT% &ndash; Free Throw Percentage</p>
+<p>ORB &ndash; Offensive Rebounds Per Game</p>
+<p>DRB &ndash; Defensive Rebounds Per Game</p>
+<p>TRB &ndash; Total Rebounds Per Game</p>
+<p>AST &ndash; Assists Per Game</p>
+<p>STL &ndash; Steals Per Game</p>
+<p>BLK &ndash; Blocks Per Game</p>
+<p>TOV &ndash; Turnovers Per Game</p>
+<p>PF &ndash; Personal Fouls Per Game</p>
+<p>PTS &ndash; Points Per Game</p>
+		</div>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/portfolio/post/nflwebscape/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Fantasy Football Webscrape</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/portfolio/post/pca_tutorial/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">Unsupervised Tutorial</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">Social</h4>
+	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="LinkedIn" rel="noopener noreferrer" href="https://linkedin.com/in/prabhjot-singh-083674125" target="_blank">
+				<svg class="widget-social__link-icon icon icon-linkedin" width="24" height="24" viewBox="0 0 352 352"><path d="M0,40v272c0,21.9,18.1,40,40,40h272c21.9,0,40-18.1,40-40V40c0-21.9-18.1-40-40-40H40C18.1,0,0,18.1,0,40z M312,32 c4.6,0,8,3.4,8,8v272c0,4.6-3.4,8-8,8H40c-4.6,0-8-3.4-8-8V40c0-4.6,3.4-8,8-8H312z M59.5,87c0,15.2,12.3,27.5,27.5,27.5 c15.2,0,27.5-12.3,27.5-27.5c0-15.2-12.3-27.5-27.5-27.5C71.8,59.5,59.5,71.8,59.5,87z M187,157h-1v-21h-45v152h47v-75 c0-19.8,3.9-39,28.5-39c24.2,0,24.5,22.4,24.5,40v74h47v-83.5c0-40.9-8.7-72-56.5-72C208.5,132.5,193.3,145.1,187,157z M64,288h47.5 V136H64V288z"/></svg>
+				<span>LinkedIn</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="GitHub" rel="noopener noreferrer" href="https://github.com/prabsingh1" target="_blank">
+				<svg class="widget-social__link-icon icon icon-github" width="24" height="24" viewBox="0 0 384 374"><path d="m192 0c-106.1 0-192 85.8-192 191.7 0 84.7 55 156.6 131.3 181.9 9.6 1.8 13.1-4.2 13.1-9.2 0-4.6-.2-16.6-.3-32.6-53.4 11.6-64.7-25.7-64.7-25.7-8.7-22.1-21.3-28-21.3-28-17.4-11.9 1.3-11.6 1.3-11.6 19.3 1.4 29.4 19.8 29.4 19.8 17.1 29.3 44.9 20.8 55.9 15.9 1.7-12.4 6.7-20.8 12.2-25.6-42.6-4.8-87.5-21.3-87.5-94.8 0-20.9 7.5-38 19.8-51.4-2-4.9-8.6-24.3 1.9-50.7 0 0 16.1-5.2 52.8 19.7 15.3-4.2 31.7-6.4 48.1-6.5 16.3.1 32.7 2.2 48.1 6.5 36.7-24.8 52.8-19.7 52.8-19.7 10.5 26.4 3.9 45.9 1.9 50.7 12.3 13.4 19.7 30.5 19.7 51.4 0 73.7-44.9 89.9-87.7 94.6 6.9 5.9 13 17.6 13 35.5 0 25.6-.2 46.3-.2 52.6 0 5.1 3.5 11.1 13.2 9.2 76.2-25.5 131.2-97.3 131.2-182 0-105.9-86-191.7-192-191.7z"/></svg>
+				<span>GitHub</span>
+			</a>
+		</div>
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Email" href="mailto:ps4fk@virginia.edu">
+				<svg class="widget-social__link-icon icon icon-mail" width="24" height="24" viewBox="0 0 416 288"><path d="m0 16v256 16h16 384 16v-16-256-16h-16-384-16zm347 16-139 92.5-139-92.5zm-148 125.5 9 5.5 9-5.5 167-111.5v210h-352v-210z"/></svg>
+				<span>ps4fk@virginia.edu</span>
+			</a>
+		</div>
+
+		
+	</div>
+</div>
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/portfolio/categories/sports-projects/">Sports Projects</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/portfolio/categories/tutorials/">Tutorials</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/portfolio/categories/weather-projects/">Weather Projects</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Tags</h4>
+	<div class="widget__content">
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/bayesian-machine-learning/" title="Bayesian Machine Learning">Bayesian Machine Learning</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/bayesian-model-averaging/" title="Bayesian Model Averaging">Bayesian Model Averaging</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/data-cleaning/" title="data cleaning">data cleaning</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/euclidean-distance/" title="Euclidean Distance">Euclidean Distance</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/gaussian-mixture-model/" title="Gaussian Mixture Model">Gaussian Mixture Model</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/hierarchical-clustering/" title="hierarchical clustering">hierarchical clustering</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/k-means-clustering/" title="K-means clustering">K-means clustering</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/logistic-regression-model/" title="Logistic Regression Model">Logistic Regression Model</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/manhattan-distance/" title="Manhattan Distance">Manhattan Distance</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/mcmc-no-u-turn-sampling/" title="MCMC No-U-Turn sampling">MCMC No-U-Turn sampling</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/naive-bayes/" title="Naive Bayes">Naive Bayes</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/numpy/" title="numpy">numpy</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/pandas/" title="Pandas">Pandas</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/principal-component-analysis/" title="principal component analysis">principal component analysis</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/pymc3/" title="pymc3">pymc3</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/python/" title="Python">Python</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/r/" title="R">R</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/sampling/" title="sampling">sampling</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/scikit-learn/" title="scikit-learn">scikit-learn</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/unsupervised-learning/" title="unsupervised learning">unsupervised learning</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/variational-inferencing/" title="variational inferencing">variational inferencing</a>
+		<a class="widget-taglist__link widget__link btn" href="/portfolio/tags/web-scraping/" title="Web-Scraping">Web-Scraping</a>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2021 Prabhjot Singh.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/portfolio/js/menu.js"></script>
+</body>
+</html>
