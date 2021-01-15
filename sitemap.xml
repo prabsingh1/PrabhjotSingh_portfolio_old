@@ -3,143 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/post/aboutme/</loc>
+    <loc>/post/aboutme/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/post/tornado/</loc>
+    <loc>/post/tornado/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/post/pca_tutorial/</loc>
+    <loc>/post/pca_tutorial/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/post/nba_analysis/</loc>
+    <loc>/post/nba_analysis/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/post/nflwebscape/</loc>
+    <loc>/post/nflwebscape/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/post/other/</loc>
+    <loc>/post/other/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/bayesian-machine-learning/</loc>
+    <loc>/tags/bayesian-machine-learning/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/bayesian-model-averaging/</loc>
+    <loc>/tags/bayesian-model-averaging/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/data-cleaning/</loc>
+    <loc>/tags/data-cleaning/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/euclidean-distance/</loc>
+    <loc>/tags/euclidean-distance/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/gaussian-mixture-model/</loc>
+    <loc>/tags/gaussian-mixture-model/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/hierarchical-clustering/</loc>
+    <loc>/tags/hierarchical-clustering/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/k-means-clustering/</loc>
+    <loc>/tags/k-means-clustering/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/logistic-regression-model/</loc>
+    <loc>/tags/logistic-regression-model/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/manhattan-distance/</loc>
+    <loc>/tags/manhattan-distance/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/mcmc-no-u-turn-sampling/</loc>
+    <loc>/tags/mcmc-no-u-turn-sampling/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/naive-bayes/</loc>
+    <loc>/tags/naive-bayes/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/numpy/</loc>
+    <loc>/tags/numpy/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/pandas/</loc>
+    <loc>/tags/pandas/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/principal-component-analysis/</loc>
+    <loc>/tags/principal-component-analysis/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/pymc3/</loc>
+    <loc>/tags/pymc3/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/python/</loc>
+    <loc>/tags/python/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/r/</loc>
+    <loc>/tags/r/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/sampling/</loc>
+    <loc>/tags/sampling/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/scikit-learn/</loc>
+    <loc>/tags/scikit-learn/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/categories/sports-projects/</loc>
+    <loc>/categories/sports-projects/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/categories/tutorials/</loc>
+    <loc>/categories/tutorials/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/unsupervised-learning/</loc>
+    <loc>/tags/unsupervised-learning/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/variational-inferencing/</loc>
+    <loc>/tags/variational-inferencing/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/categories/weather-projects/</loc>
+    <loc>/categories/weather-projects/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/tags/web-scraping/</loc>
+    <loc>/tags/web-scraping/</loc>
   </url>
   
 </urlset>

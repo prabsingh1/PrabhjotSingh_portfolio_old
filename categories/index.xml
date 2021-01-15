@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Prabhjot Singh</title>
-    <link>/portfolio/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Prabhjot Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sports Projects</title>
-      <link>/portfolio/categories/sports-projects/</link>
+      <link>/categories/sports-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/categories/sports-projects/</guid>
+      <guid>/categories/sports-projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorials</title>
-      <link>/portfolio/categories/tutorials/</link>
+      <link>/categories/tutorials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/categories/tutorials/</guid>
+      <guid>/categories/tutorials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weather Projects</title>
-      <link>/portfolio/categories/weather-projects/</link>
+      <link>/categories/weather-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/categories/weather-projects/</guid>
+      <guid>/categories/weather-projects/</guid>
       <description></description>
     </item>
     

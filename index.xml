@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prabhjot Singh</title>
-    <link>/portfolio/</link>
+    <link>/</link>
     <description>Recent content on Prabhjot Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>/portfolio/post/aboutme/</link>
+      <link>/post/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/post/aboutme/</guid>
+      <guid>/post/aboutme/</guid>
       <description>&lt;h4 id=&#34;whats-this-portfolio-for&#34;&gt;What&amp;rsquo;s this portfolio for?&lt;/h4&gt;
 &lt;p&gt;I am a current Masters in Data Science student at the University of Virginia. I enjoy using data to explore a vareity of different things that I care about including weather, sports and healthcare. This portfolio is to describe my data science journey and highlights some of the projects I have completed so far. If you have any questions feel free to contact me on any of my socials!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Assessing Tornado Uncertainty Using Bayesian Methods</title>
-      <link>/portfolio/post/tornado/</link>
+      <link>/post/tornado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/post/tornado/</guid>
+      <guid>/post/tornado/</guid>
       <description>&lt;p&gt;This project was made for my Baysian Machine Learning final project with a few other students in my cohort. The main goal was to assess which variables are the most important in the categorization of tornado magnitude on the Enhance Fujita (EF) scale using bayesian machine learning. We used a dataset from the National Oceanic and Atmospheric Association (NOAA) to create three different models: Naive Bayes, Mulitnomial Logistic Regression and Hierarchical Logistic Regression. We found the most important variables to be the path length of the torndao, more specifically length and width of the tornado, to be the most important parameters in the classifcation of tornado magnitude. The multinomial logistic regression model performed the best with an accuracy of ~60%.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Unsupervised Tutorial</title>
-      <link>/portfolio/post/pca_tutorial/</link>
+      <link>/post/pca_tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/post/pca_tutorial/</guid>
+      <guid>/post/pca_tutorial/</guid>
       <description>&lt;p&gt;In my data mining class, we were required to create an R based tutorial for any data science concept that we wanted to learn more about. My project group and I decided that a comprehensive overview on unsupervised learning would be an intersting concept to dive into. Therefore we created a step by step guide on when and how to use unsupervised learning techniques, including pricipal component analysis and different clustering algorithms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NBA Analysis</title>
-      <link>/portfolio/post/nba_analysis/</link>
+      <link>/post/nba_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/post/nba_analysis/</guid>
+      <guid>/post/nba_analysis/</guid>
       <description>&lt;p&gt;The National Basketball Association (NBA) has consistently been one of the most watched sports around the world. It featured cultural icons of past generations such as Michael Jordan and has inspired generations of fans and young athletes to become avid followers of the sport. The influence and cultural relevance of the NBA continues to this day, but many argue that the magic that existed during the past generations of basketball has been lost. Therefore, the overall goal of this project is to investigate the characteristics that make up both “old school” and “current” NBA and elaborate on their differences. By doing so we hope to better understand the statistics and trends that revolve around this debate.&lt;/p&gt;
 &lt;p&gt;This was for my final project in CS 5010.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Fantasy Football Webscrape</title>
-      <link>/portfolio/post/nflwebscape/</link>
+      <link>/post/nflwebscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/post/nflwebscape/</guid>
+      <guid>/post/nflwebscape/</guid>
       <description>&lt;p&gt;In this project I demstrate how I webscraped NFL Fantasy data over the last 10 years from NFL.com.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Other Projects</title>
-      <link>/portfolio/post/other/</link>
+      <link>/post/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/post/other/</guid>
+      <guid>/post/other/</guid>
       <description></description>
     </item>
     

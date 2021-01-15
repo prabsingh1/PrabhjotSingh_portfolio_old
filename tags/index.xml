@@ -2,205 +2,205 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Prabhjot Singh</title>
-    <link>/portfolio/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Prabhjot Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bayesian Machine Learning</title>
-      <link>/portfolio/tags/bayesian-machine-learning/</link>
+      <link>/tags/bayesian-machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/bayesian-machine-learning/</guid>
+      <guid>/tags/bayesian-machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Model Averaging</title>
-      <link>/portfolio/tags/bayesian-model-averaging/</link>
+      <link>/tags/bayesian-model-averaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/bayesian-model-averaging/</guid>
+      <guid>/tags/bayesian-model-averaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data cleaning</title>
-      <link>/portfolio/tags/data-cleaning/</link>
+      <link>/tags/data-cleaning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/data-cleaning/</guid>
+      <guid>/tags/data-cleaning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Euclidean Distance</title>
-      <link>/portfolio/tags/euclidean-distance/</link>
+      <link>/tags/euclidean-distance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/euclidean-distance/</guid>
+      <guid>/tags/euclidean-distance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaussian Mixture Model</title>
-      <link>/portfolio/tags/gaussian-mixture-model/</link>
+      <link>/tags/gaussian-mixture-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/gaussian-mixture-model/</guid>
+      <guid>/tags/gaussian-mixture-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hierarchical clustering</title>
-      <link>/portfolio/tags/hierarchical-clustering/</link>
+      <link>/tags/hierarchical-clustering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/hierarchical-clustering/</guid>
+      <guid>/tags/hierarchical-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K-means clustering</title>
-      <link>/portfolio/tags/k-means-clustering/</link>
+      <link>/tags/k-means-clustering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/k-means-clustering/</guid>
+      <guid>/tags/k-means-clustering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logistic Regression Model</title>
-      <link>/portfolio/tags/logistic-regression-model/</link>
+      <link>/tags/logistic-regression-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/logistic-regression-model/</guid>
+      <guid>/tags/logistic-regression-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manhattan Distance</title>
-      <link>/portfolio/tags/manhattan-distance/</link>
+      <link>/tags/manhattan-distance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/manhattan-distance/</guid>
+      <guid>/tags/manhattan-distance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MCMC No-U-Turn sampling</title>
-      <link>/portfolio/tags/mcmc-no-u-turn-sampling/</link>
+      <link>/tags/mcmc-no-u-turn-sampling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/mcmc-no-u-turn-sampling/</guid>
+      <guid>/tags/mcmc-no-u-turn-sampling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naive Bayes</title>
-      <link>/portfolio/tags/naive-bayes/</link>
+      <link>/tags/naive-bayes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/naive-bayes/</guid>
+      <guid>/tags/naive-bayes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>numpy</title>
-      <link>/portfolio/tags/numpy/</link>
+      <link>/tags/numpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/numpy/</guid>
+      <guid>/tags/numpy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>/portfolio/tags/pandas/</link>
+      <link>/tags/pandas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/pandas/</guid>
+      <guid>/tags/pandas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>principal component analysis</title>
-      <link>/portfolio/tags/principal-component-analysis/</link>
+      <link>/tags/principal-component-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/principal-component-analysis/</guid>
+      <guid>/tags/principal-component-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pymc3</title>
-      <link>/portfolio/tags/pymc3/</link>
+      <link>/tags/pymc3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/pymc3/</guid>
+      <guid>/tags/pymc3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>/portfolio/tags/python/</link>
+      <link>/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/python/</guid>
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/portfolio/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sampling</title>
-      <link>/portfolio/tags/sampling/</link>
+      <link>/tags/sampling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/sampling/</guid>
+      <guid>/tags/sampling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>/portfolio/tags/scikit-learn/</link>
+      <link>/tags/scikit-learn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/scikit-learn/</guid>
+      <guid>/tags/scikit-learn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unsupervised learning</title>
-      <link>/portfolio/tags/unsupervised-learning/</link>
+      <link>/tags/unsupervised-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/unsupervised-learning/</guid>
+      <guid>/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>variational inferencing</title>
-      <link>/portfolio/tags/variational-inferencing/</link>
+      <link>/tags/variational-inferencing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/variational-inferencing/</guid>
+      <guid>/tags/variational-inferencing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web-Scraping</title>
-      <link>/portfolio/tags/web-scraping/</link>
+      <link>/tags/web-scraping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/tags/web-scraping/</guid>
+      <guid>/tags/web-scraping/</guid>
       <description></description>
     </item>
     

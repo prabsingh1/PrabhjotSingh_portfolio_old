@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data cleaning on Prabhjot Singh</title>
-    <link>/portfolio/tags/data-cleaning/</link>
+    <link>/tags/data-cleaning/</link>
     <description>Recent content in data cleaning on Prabhjot Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/portfolio/tags/data-cleaning/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/data-cleaning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fantasy Football Webscrape</title>
-      <link>/portfolio/post/nflwebscape/</link>
+      <link>/post/nflwebscape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/post/nflwebscape/</guid>
+      <guid>/post/nflwebscape/</guid>
       <description>&lt;p&gt;In this project I demstrate how I webscraped NFL Fantasy data over the last 10 years from NFL.com.&lt;/p&gt;</description>
     </item>
     

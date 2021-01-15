@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>unsupervised learning on Prabhjot Singh</title>
-    <link>/portfolio/tags/unsupervised-learning/</link>
+    <link>/tags/unsupervised-learning/</link>
     <description>Recent content in unsupervised learning on Prabhjot Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/portfolio/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unsupervised Tutorial</title>
-      <link>/portfolio/post/pca_tutorial/</link>
+      <link>/post/pca_tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/post/pca_tutorial/</guid>
+      <guid>/post/pca_tutorial/</guid>
       <description>&lt;p&gt;In my data mining class, we were required to create an R based tutorial for any data science concept that we wanted to learn more about. My project group and I decided that a comprehensive overview on unsupervised learning would be an intersting concept to dive into. Therefore we created a step by step guide on when and how to use unsupervised learning techniques, including pricipal component analysis and different clustering algorithms.&lt;/p&gt;</description>
     </item>
     
